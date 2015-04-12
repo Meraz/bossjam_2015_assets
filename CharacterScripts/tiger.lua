@@ -1,4 +1,4 @@
-m_moveSpeedCurrent = 700.0
+m_moveSpeedCurrent = 800.0
 m_moveSpeedDefault = 700.0
 m_moveSpeedMax = 700.0
 m_accelerationCurrent = 100.0
@@ -7,7 +7,7 @@ m_accelerationMax = 100.0
 m_jumpHeightCurrent = 700.0
 m_jumpHeightDefault = 700.0
 m_jumpHeightMax = 700.0
-m_jumpNrCurrent = 1
+m_jumpNrCurrent = 2
 m_jumpNrDefault = 1
 m_jumpNrMax = 2
 m_airControlCurrent = 0.8
